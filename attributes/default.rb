@@ -70,7 +70,7 @@ node.default['packer']['0.8.6']['raw_checksums'] = <<-EOF
 EOF
 
 node.default['packer']['0.10.1']['prefix'] = "packer_"
-node.default['pakcer']['0.10.1']['raw_checksums'] = <<-EOF
+node.default['packer']['0.10.1']['raw_checksums'] = <<-EOF
     7974c24313230dfe6a13a81332c3a2f5119d4c589ca3b7ead6decf4895486c71  packer_0.10.1_darwin_386.zip
     fac621bf1fb43f0cbbe52481c8dfda2948895ad52e022e46f00bc75c07a4f181  packer_0.10.1_darwin_amd64.zip
     951012ddd2564cfe1cf901b8486a36896f89d4c4e75b3ed85d6f9b49c06ac14e  packer_0.10.1_freebsd_386.zip
